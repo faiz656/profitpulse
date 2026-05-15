@@ -1,0 +1,315 @@
+order_id,order_date,product_name,category,quantity,selling_price,shipping_fee,daraz_commission,payment_fee,ad_cost,return_status,status
+DRZ-644388,2024-12-31,Nonstick Cooking Pan 24cm,Kitchen,1,1200,0,108,18,60,None,Completed
+DRZ-487587,2024-12-31,Baby Wipes 80pcs Pack,Baby,3,520,0,125,23,0,None,Completed
+DRZ-325288,2024-12-31,Cotton Kurta Set Men,Fashion,2,1800,0,540,54,0,None,Completed
+DRZ-184252,2024-12-31,Nonstick Cooking Pan 24cm,Kitchen,2,1200,0,216,36,120,None,Completed
+DRZ-818355,2025-01-01,Cotton Kurta Set Men,Fashion,1,1800,0,270,27,90,None,Completed
+DRZ-426237,2025-01-01,Samsung A15 Back Cover,Mobile Accessories,3,450,0,108,20,68,None,Completed
+DRZ-993099,2025-01-01,Nonstick Cooking Pan 24cm,Kitchen,3,1200,0,324,54,180,None,Completed
+DRZ-431350,2025-01-02,Protein Shaker 700ml,Sports,1,750,150,75,11,0,None,Completed
+DRZ-359122,2025-01-02,Nonstick Cooking Pan 24cm,Kitchen,3,1200,0,324,54,0,None,Completed
+DRZ-764725,2025-01-02,Nonstick Cooking Pan 24cm,Kitchen,1,1200,0,108,18,0,None,Completed
+DRZ-490488,2025-01-03,Wireless Mouse Logitech M185,Computer Accessories,3,2200,0,726,99,330,None,Completed
+DRZ-527856,2025-01-03,Wireless Mouse Logitech M185,Computer Accessories,2,2200,0,484,66,220,None,Completed
+DRZ-929955,2025-01-03,Women Instant Hijab,Fashion,3,650,0,273,29,0,Returned,Completed
+DRZ-750428,2025-01-03,Wireless Mouse Logitech M185,Computer Accessories,3,2200,0,726,99,0,Returned,Completed
+DRZ-120778,2025-01-03,Protein Shaker 700ml,Sports,3,750,0,225,34,112,None,Completed
+DRZ-684341,2025-01-04,Cotton Kurta Set Men,Fashion,1,1800,0,270,27,0,None,Completed
+DRZ-330160,2025-01-05,Cotton Kurta Set Men,Fashion,3,1800,0,810,81,0,None,Completed
+DRZ-618536,2025-01-05,LED Desk Lamp Adjustable,Home & Living,3,1600,0,432,72,240,None,Completed
+DRZ-749301,2025-01-06,Protein Shaker 700ml,Sports,1,750,150,75,11,0,None,Completed
+DRZ-736495,2025-01-07,LED Desk Lamp Adjustable,Home & Living,3,1600,0,432,72,0,None,Completed
+DRZ-582731,2025-01-07,Wireless Mouse Logitech M185,Computer Accessories,1,2200,0,242,33,110,None,Completed
+DRZ-223696,2025-01-07,USB-C Fast Charging Cable,Electronics,1,380,150,38,6,19,None,Completed
+DRZ-858996,2025-01-08,Baby Wipes 80pcs Pack,Baby,3,520,0,125,23,78,None,Completed
+DRZ-645941,2025-01-08,Samsung A15 Back Cover,Mobile Accessories,3,450,0,108,20,0,None,Completed
+DRZ-992276,2025-01-08,Cotton Kurta Set Men,Fashion,1,1800,0,270,27,0,None,Completed
+DRZ-108123,2025-01-08,Protein Shaker 700ml,Sports,3,750,0,225,34,0,None,Completed
+DRZ-946956,2025-01-08,USB-C Fast Charging Cable,Electronics,1,380,150,38,6,19,None,Completed
+DRZ-300189,2025-01-09,Women Instant Hijab,Fashion,2,650,0,182,20,65,None,Completed
+DRZ-459913,2025-01-09,Women Instant Hijab,Fashion,1,650,150,91,10,0,None,Completed
+DRZ-320363,2025-01-10,Women Instant Hijab,Fashion,1,650,150,91,10,32,None,Completed
+DRZ-450402,2025-01-11,LED Desk Lamp Adjustable,Home & Living,1,1600,0,144,24,80,None,Completed
+DRZ-317578,2025-01-12,Wireless Mouse Logitech M185,Computer Accessories,1,2200,0,242,33,0,None,Completed
+DRZ-194994,2025-01-12,Wireless Mouse Logitech M185,Computer Accessories,2,2200,0,484,66,0,None,Completed
+DRZ-712426,2025-01-12,USB-C Fast Charging Cable,Electronics,1,380,150,38,6,0,None,Completed
+DRZ-286914,2025-01-12,Women Instant Hijab,Fashion,2,650,0,182,20,65,None,Completed
+DRZ-970918,2025-01-13,Wireless Mouse Logitech M185,Computer Accessories,1,2200,0,242,33,0,None,Completed
+DRZ-705738,2025-01-13,Baby Wipes 80pcs Pack,Baby,2,520,0,83,16,52,None,Completed
+DRZ-965443,2025-01-13,Nonstick Cooking Pan 24cm,Kitchen,1,1200,0,108,18,0,None,Completed
+DRZ-126693,2025-01-13,Protein Shaker 700ml,Sports,1,750,150,75,11,38,None,Completed
+DRZ-862028,2025-01-14,Samsung A15 Back Cover,Mobile Accessories,3,450,0,108,20,68,None,Completed
+DRZ-282879,2025-01-15,Xiaomi Earbuds Pro,Audio,2,2800,0,672,84,0,None,Completed
+DRZ-349425,2025-01-15,Nonstick Cooking Pan 24cm,Kitchen,2,1200,0,216,36,120,None,Completed
+DRZ-624734,2025-01-15,Nonstick Cooking Pan 24cm,Kitchen,2,1200,0,216,36,0,Returned,Completed
+DRZ-461915,2025-01-15,Samsung A15 Back Cover,Mobile Accessories,2,450,0,72,14,45,None,Completed
+DRZ-741361,2025-01-15,Nonstick Cooking Pan 24cm,Kitchen,1,1200,0,108,18,60,None,Completed
+DRZ-188463,2025-01-16,Samsung A15 Back Cover,Mobile Accessories,3,450,0,108,20,0,None,Completed
+DRZ-236942,2025-01-16,Wireless Mouse Logitech M185,Computer Accessories,1,2200,0,242,33,0,None,Completed
+DRZ-102862,2025-01-17,USB-C Fast Charging Cable,Electronics,1,380,150,38,6,0,Returned,Completed
+DRZ-284302,2025-01-17,Baby Wipes 80pcs Pack,Baby,2,520,0,83,16,0,None,Completed
+DRZ-991139,2025-01-18,Xiaomi Earbuds Pro,Audio,2,2800,0,672,84,0,None,Completed
+DRZ-650942,2025-01-18,Cotton Kurta Set Men,Fashion,2,1800,0,540,54,180,None,Completed
+DRZ-980336,2025-01-18,Protein Shaker 700ml,Sports,2,750,0,150,22,75,None,Completed
+DRZ-890309,2025-01-18,Nonstick Cooking Pan 24cm,Kitchen,3,1200,0,324,54,180,Returned,Completed
+DRZ-732396,2025-01-19,Wireless Mouse Logitech M185,Computer Accessories,2,2200,0,484,66,220,None,Completed
+DRZ-904792,2025-01-20,Baby Wipes 80pcs Pack,Baby,2,520,0,83,16,52,None,Completed
+DRZ-806657,2025-01-20,Baby Wipes 80pcs Pack,Baby,3,520,0,125,23,78,None,Completed
+DRZ-578059,2025-01-20,Nonstick Cooking Pan 24cm,Kitchen,2,1200,0,216,36,0,None,Completed
+DRZ-794070,2025-01-21,Xiaomi Earbuds Pro,Audio,2,2800,0,672,84,0,None,Completed
+DRZ-769703,2025-01-22,Cotton Kurta Set Men,Fashion,3,1800,0,810,81,0,None,Completed
+DRZ-845091,2025-01-22,Samsung A15 Back Cover,Mobile Accessories,1,450,150,36,7,22,None,Completed
+DRZ-891654,2025-01-22,Xiaomi Earbuds Pro,Audio,2,2800,0,672,84,280,None,Completed
+DRZ-851143,2025-01-22,Cotton Kurta Set Men,Fashion,2,1800,0,540,54,0,None,Completed
+DRZ-292881,2025-01-23,LED Desk Lamp Adjustable,Home & Living,3,1600,0,432,72,0,None,Completed
+DRZ-765643,2025-01-24,LED Desk Lamp Adjustable,Home & Living,1,1600,0,144,24,80,None,Completed
+DRZ-406101,2025-01-25,Nonstick Cooking Pan 24cm,Kitchen,1,1200,0,108,18,60,None,Completed
+DRZ-577909,2025-01-25,USB-C Fast Charging Cable,Electronics,3,380,0,114,17,0,None,Completed
+DRZ-948962,2025-01-25,USB-C Fast Charging Cable,Electronics,2,380,150,76,11,38,None,Completed
+DRZ-391857,2025-01-25,LED Desk Lamp Adjustable,Home & Living,2,1600,0,288,48,0,None,Completed
+DRZ-793580,2025-01-25,Women Instant Hijab,Fashion,2,650,0,182,20,65,None,Completed
+DRZ-782451,2025-01-26,Cotton Kurta Set Men,Fashion,1,1800,0,270,27,0,None,Completed
+DRZ-132879,2025-01-26,Xiaomi Earbuds Pro,Audio,1,2800,0,336,42,140,None,Completed
+DRZ-444203,2025-01-26,Xiaomi Earbuds Pro,Audio,3,2800,0,1008,126,420,None,Completed
+DRZ-156388,2025-01-26,Wireless Mouse Logitech M185,Computer Accessories,1,2200,0,242,33,110,None,Completed
+DRZ-433176,2025-01-27,Samsung A15 Back Cover,Mobile Accessories,3,450,0,108,20,68,None,Completed
+DRZ-773280,2025-01-27,LED Desk Lamp Adjustable,Home & Living,3,1600,0,432,72,0,None,Completed
+DRZ-452645,2025-01-28,Protein Shaker 700ml,Sports,2,750,0,150,22,0,None,Completed
+DRZ-462751,2025-01-28,Protein Shaker 700ml,Sports,3,750,0,225,34,0,None,Completed
+DRZ-141763,2025-01-28,Protein Shaker 700ml,Sports,1,750,150,75,11,0,None,Completed
+DRZ-868822,2025-01-29,USB-C Fast Charging Cable,Electronics,2,380,150,76,11,38,None,Completed
+DRZ-835612,2025-01-30,Women Instant Hijab,Fashion,3,650,0,273,29,0,None,Completed
+DRZ-153132,2025-01-30,Samsung A15 Back Cover,Mobile Accessories,1,450,150,36,7,22,Returned,Completed
+DRZ-585728,2025-01-30,Xiaomi Earbuds Pro,Audio,2,2800,0,672,84,0,None,Completed
+DRZ-460483,2025-01-31,Nonstick Cooking Pan 24cm,Kitchen,1,1200,0,108,18,0,None,Completed
+DRZ-947508,2025-01-31,Women Instant Hijab,Fashion,2,650,0,182,20,0,None,Completed
+DRZ-935018,2025-01-31,Wireless Mouse Logitech M185,Computer Accessories,1,2200,0,242,33,110,None,Completed
+DRZ-138431,2025-02-01,Baby Wipes 80pcs Pack,Baby,2,520,0,83,16,0,None,Completed
+DRZ-862345,2025-02-02,Nonstick Cooking Pan 24cm,Kitchen,2,1200,0,216,36,120,None,Completed
+DRZ-258836,2025-02-03,Xiaomi Earbuds Pro,Audio,3,2800,0,1008,126,420,None,Completed
+DRZ-319301,2025-02-03,Protein Shaker 700ml,Sports,1,750,150,75,11,38,None,Completed
+DRZ-884022,2025-02-03,Wireless Mouse Logitech M185,Computer Accessories,2,2200,0,484,66,0,None,Completed
+DRZ-983165,2025-02-03,Protein Shaker 700ml,Sports,2,750,0,150,22,0,None,Completed
+DRZ-616552,2025-02-04,Nonstick Cooking Pan 24cm,Kitchen,2,1200,0,216,36,0,None,Completed
+DRZ-894944,2025-02-04,Women Instant Hijab,Fashion,3,650,0,273,29,0,None,Completed
+DRZ-827948,2025-02-05,Nonstick Cooking Pan 24cm,Kitchen,1,1200,0,108,18,60,None,Completed
+DRZ-340461,2025-02-05,Women Instant Hijab,Fashion,3,650,0,273,29,0,None,Completed
+DRZ-117835,2025-02-06,Nonstick Cooking Pan 24cm,Kitchen,1,1200,0,108,18,0,None,Completed
+DRZ-560299,2025-02-06,Baby Wipes 80pcs Pack,Baby,1,520,150,42,8,26,None,Completed
+DRZ-192299,2025-02-07,Wireless Mouse Logitech M185,Computer Accessories,2,2200,0,484,66,0,None,Completed
+DRZ-249848,2025-02-08,USB-C Fast Charging Cable,Electronics,3,380,0,114,17,57,None,Completed
+DRZ-929440,2025-02-08,Nonstick Cooking Pan 24cm,Kitchen,2,1200,0,216,36,0,None,Completed
+DRZ-843250,2025-02-08,Nonstick Cooking Pan 24cm,Kitchen,2,1200,0,216,36,0,None,Completed
+DRZ-958667,2025-02-09,Protein Shaker 700ml,Sports,1,750,150,75,11,0,None,Completed
+DRZ-634412,2025-02-10,Women Instant Hijab,Fashion,2,650,0,182,20,65,None,Completed
+DRZ-944823,2025-02-10,USB-C Fast Charging Cable,Electronics,2,380,150,76,11,0,None,Completed
+DRZ-116887,2025-02-10,Wireless Mouse Logitech M185,Computer Accessories,3,2200,0,726,99,0,None,Completed
+DRZ-472830,2025-02-11,Baby Wipes 80pcs Pack,Baby,3,520,0,125,23,78,None,Completed
+DRZ-463056,2025-02-11,Baby Wipes 80pcs Pack,Baby,1,520,150,42,8,26,None,Completed
+DRZ-424724,2025-02-12,Women Instant Hijab,Fashion,3,650,0,273,29,0,Returned,Completed
+DRZ-561005,2025-02-13,Samsung A15 Back Cover,Mobile Accessories,2,450,0,72,14,0,None,Completed
+DRZ-632904,2025-02-14,Xiaomi Earbuds Pro,Audio,2,2800,0,672,84,0,None,Completed
+DRZ-232856,2025-02-15,Protein Shaker 700ml,Sports,3,750,0,225,34,0,None,Completed
+DRZ-779769,2025-02-15,LED Desk Lamp Adjustable,Home & Living,1,1600,0,144,24,0,None,Completed
+DRZ-221310,2025-02-15,Baby Wipes 80pcs Pack,Baby,3,520,0,125,23,78,Returned,Completed
+DRZ-247041,2025-02-15,Samsung A15 Back Cover,Mobile Accessories,2,450,0,72,14,0,None,Completed
+DRZ-358125,2025-02-15,USB-C Fast Charging Cable,Electronics,2,380,150,76,11,38,None,Completed
+DRZ-677592,2025-02-16,LED Desk Lamp Adjustable,Home & Living,3,1600,0,432,72,240,None,Completed
+DRZ-672535,2025-02-16,Samsung A15 Back Cover,Mobile Accessories,1,450,150,36,7,22,None,Completed
+DRZ-540988,2025-02-16,Nonstick Cooking Pan 24cm,Kitchen,1,1200,0,108,18,0,None,Completed
+DRZ-405012,2025-02-16,Wireless Mouse Logitech M185,Computer Accessories,3,2200,0,726,99,330,None,Completed
+DRZ-513001,2025-02-17,Cotton Kurta Set Men,Fashion,2,1800,0,540,54,0,None,Completed
+DRZ-955366,2025-02-17,Protein Shaker 700ml,Sports,1,750,150,75,11,38,None,Completed
+DRZ-934502,2025-02-18,Xiaomi Earbuds Pro,Audio,1,2800,0,336,42,140,None,Completed
+DRZ-531703,2025-02-18,Women Instant Hijab,Fashion,2,650,0,182,20,0,None,Completed
+DRZ-873559,2025-02-18,Samsung A15 Back Cover,Mobile Accessories,2,450,0,72,14,45,None,Completed
+DRZ-240587,2025-02-18,Nonstick Cooking Pan 24cm,Kitchen,3,1200,0,324,54,180,None,Completed
+DRZ-320411,2025-02-19,Wireless Mouse Logitech M185,Computer Accessories,3,2200,0,726,99,0,Returned,Completed
+DRZ-225082,2025-02-19,Nonstick Cooking Pan 24cm,Kitchen,1,1200,0,108,18,0,None,Completed
+DRZ-298122,2025-02-19,Wireless Mouse Logitech M185,Computer Accessories,1,2200,0,242,33,0,Returned,Completed
+DRZ-794779,2025-02-20,USB-C Fast Charging Cable,Electronics,3,380,0,114,17,0,None,Completed
+DRZ-808309,2025-02-21,Women Instant Hijab,Fashion,2,650,0,182,20,65,None,Completed
+DRZ-978857,2025-02-21,USB-C Fast Charging Cable,Electronics,1,380,150,38,6,0,None,Completed
+DRZ-565785,2025-02-22,Xiaomi Earbuds Pro,Audio,2,2800,0,672,84,280,None,Completed
+DRZ-618159,2025-02-23,Baby Wipes 80pcs Pack,Baby,2,520,0,83,16,52,None,Completed
+DRZ-650230,2025-02-23,Nonstick Cooking Pan 24cm,Kitchen,1,1200,0,108,18,60,None,Completed
+DRZ-259463,2025-02-23,Women Instant Hijab,Fashion,2,650,0,182,20,65,None,Completed
+DRZ-387314,2025-02-23,USB-C Fast Charging Cable,Electronics,1,380,150,38,6,0,Returned,Completed
+DRZ-298705,2025-02-24,Wireless Mouse Logitech M185,Computer Accessories,2,2200,0,484,66,220,None,Completed
+DRZ-769154,2025-02-24,Xiaomi Earbuds Pro,Audio,3,2800,0,1008,126,0,None,Completed
+DRZ-365642,2025-02-24,Baby Wipes 80pcs Pack,Baby,2,520,0,83,16,52,None,Completed
+DRZ-502782,2025-02-24,Baby Wipes 80pcs Pack,Baby,1,520,150,42,8,26,None,Completed
+DRZ-621384,2025-02-25,Cotton Kurta Set Men,Fashion,3,1800,0,810,81,270,Returned,Completed
+DRZ-972413,2025-02-25,Wireless Mouse Logitech M185,Computer Accessories,3,2200,0,726,99,0,None,Completed
+DRZ-829634,2025-02-25,LED Desk Lamp Adjustable,Home & Living,2,1600,0,288,48,160,None,Completed
+DRZ-883698,2025-02-25,Xiaomi Earbuds Pro,Audio,3,2800,0,1008,126,0,None,Completed
+DRZ-782918,2025-02-25,Women Instant Hijab,Fashion,2,650,0,182,20,0,None,Completed
+DRZ-554576,2025-02-26,Women Instant Hijab,Fashion,1,650,150,91,10,32,None,Completed
+DRZ-954529,2025-02-27,Women Instant Hijab,Fashion,3,650,0,273,29,0,None,Completed
+DRZ-167373,2025-02-27,Women Instant Hijab,Fashion,2,650,0,182,20,0,None,Completed
+DRZ-968930,2025-02-28,Samsung A15 Back Cover,Mobile Accessories,1,450,150,36,7,0,None,Completed
+DRZ-192916,2025-02-28,Women Instant Hijab,Fashion,2,650,0,182,20,65,None,Completed
+DRZ-159439,2025-02-28,Cotton Kurta Set Men,Fashion,2,1800,0,540,54,0,None,Completed
+DRZ-218471,2025-03-01,Nonstick Cooking Pan 24cm,Kitchen,3,1200,0,324,54,180,Returned,Completed
+DRZ-672048,2025-03-02,Wireless Mouse Logitech M185,Computer Accessories,2,2200,0,484,66,220,None,Completed
+DRZ-166320,2025-03-02,Samsung A15 Back Cover,Mobile Accessories,3,450,0,108,20,68,None,Completed
+DRZ-813353,2025-03-03,Women Instant Hijab,Fashion,3,650,0,273,29,0,None,Completed
+DRZ-468728,2025-03-03,Samsung A15 Back Cover,Mobile Accessories,1,450,150,36,7,22,None,Completed
+DRZ-309857,2025-03-03,Baby Wipes 80pcs Pack,Baby,2,520,0,83,16,52,None,Completed
+DRZ-811097,2025-03-04,Nonstick Cooking Pan 24cm,Kitchen,3,1200,0,324,54,180,None,Completed
+DRZ-647092,2025-03-04,Samsung A15 Back Cover,Mobile Accessories,1,450,150,36,7,22,None,Completed
+DRZ-394909,2025-03-04,Protein Shaker 700ml,Sports,3,750,0,225,34,112,None,Completed
+DRZ-904952,2025-03-04,Wireless Mouse Logitech M185,Computer Accessories,2,2200,0,484,66,220,None,Completed
+DRZ-347702,2025-03-05,USB-C Fast Charging Cable,Electronics,3,380,0,114,17,0,None,Completed
+DRZ-345575,2025-03-05,USB-C Fast Charging Cable,Electronics,3,380,0,114,17,57,None,Completed
+DRZ-947902,2025-03-05,Nonstick Cooking Pan 24cm,Kitchen,3,1200,0,324,54,180,None,Completed
+DRZ-317515,2025-03-06,LED Desk Lamp Adjustable,Home & Living,3,1600,0,432,72,0,None,Completed
+DRZ-711069,2025-03-07,Baby Wipes 80pcs Pack,Baby,2,520,0,83,16,52,None,Completed
+DRZ-466157,2025-03-07,Protein Shaker 700ml,Sports,2,750,0,150,22,75,None,Completed
+DRZ-308924,2025-03-08,USB-C Fast Charging Cable,Electronics,2,380,150,76,11,0,None,Completed
+DRZ-229556,2025-03-08,Cotton Kurta Set Men,Fashion,1,1800,0,270,27,90,None,Completed
+DRZ-705448,2025-03-08,Xiaomi Earbuds Pro,Audio,3,2800,0,1008,126,0,None,Completed
+DRZ-467596,2025-03-08,Wireless Mouse Logitech M185,Computer Accessories,2,2200,0,484,66,0,None,Completed
+DRZ-967289,2025-03-09,Samsung A15 Back Cover,Mobile Accessories,3,450,0,108,20,68,None,Completed
+DRZ-631431,2025-03-10,Wireless Mouse Logitech M185,Computer Accessories,1,2200,0,242,33,0,None,Completed
+DRZ-524374,2025-03-10,Nonstick Cooking Pan 24cm,Kitchen,2,1200,0,216,36,0,None,Completed
+DRZ-625690,2025-03-11,USB-C Fast Charging Cable,Electronics,3,380,0,114,17,0,None,Completed
+DRZ-689206,2025-03-11,Wireless Mouse Logitech M185,Computer Accessories,1,2200,0,242,33,0,None,Completed
+DRZ-429559,2025-03-11,Cotton Kurta Set Men,Fashion,3,1800,0,810,81,0,None,Completed
+DRZ-451149,2025-03-12,Samsung A15 Back Cover,Mobile Accessories,2,450,0,72,14,0,None,Completed
+DRZ-549547,2025-03-12,Protein Shaker 700ml,Sports,1,750,150,75,11,0,None,Completed
+DRZ-499779,2025-03-13,LED Desk Lamp Adjustable,Home & Living,2,1600,0,288,48,0,None,Completed
+DRZ-401977,2025-03-13,Samsung A15 Back Cover,Mobile Accessories,3,450,0,108,20,68,None,Completed
+DRZ-607685,2025-03-13,Cotton Kurta Set Men,Fashion,3,1800,0,810,81,0,None,Completed
+DRZ-852694,2025-03-13,Protein Shaker 700ml,Sports,2,750,0,150,22,0,None,Completed
+DRZ-338298,2025-03-13,LED Desk Lamp Adjustable,Home & Living,1,1600,0,144,24,0,None,Completed
+DRZ-539523,2025-03-14,LED Desk Lamp Adjustable,Home & Living,2,1600,0,288,48,0,None,Completed
+DRZ-121445,2025-03-15,Women Instant Hijab,Fashion,1,650,150,91,10,32,None,Completed
+DRZ-765235,2025-03-15,Protein Shaker 700ml,Sports,3,750,0,225,34,0,None,Completed
+DRZ-515225,2025-03-15,Women Instant Hijab,Fashion,1,650,150,91,10,0,None,Completed
+DRZ-978914,2025-03-15,Nonstick Cooking Pan 24cm,Kitchen,3,1200,0,324,54,180,Returned,Completed
+DRZ-178485,2025-03-16,Xiaomi Earbuds Pro,Audio,1,2800,0,336,42,0,None,Completed
+DRZ-553317,2025-03-16,Women Instant Hijab,Fashion,2,650,0,182,20,65,None,Completed
+DRZ-568382,2025-03-17,USB-C Fast Charging Cable,Electronics,3,380,0,114,17,0,None,Completed
+DRZ-939296,2025-03-17,Xiaomi Earbuds Pro,Audio,2,2800,0,672,84,280,Returned,Completed
+DRZ-441499,2025-03-17,Samsung A15 Back Cover,Mobile Accessories,2,450,0,72,14,45,None,Completed
+DRZ-312320,2025-03-18,Protein Shaker 700ml,Sports,2,750,0,150,22,0,None,Completed
+DRZ-408715,2025-03-18,USB-C Fast Charging Cable,Electronics,2,380,150,76,11,38,Returned,Completed
+DRZ-333875,2025-03-18,Cotton Kurta Set Men,Fashion,2,1800,0,540,54,0,Returned,Completed
+DRZ-118319,2025-03-18,Xiaomi Earbuds Pro,Audio,1,2800,0,336,42,0,None,Completed
+DRZ-291639,2025-03-19,Women Instant Hijab,Fashion,3,650,0,273,29,0,None,Completed
+DRZ-849693,2025-03-19,Baby Wipes 80pcs Pack,Baby,1,520,150,42,8,26,None,Completed
+DRZ-207350,2025-03-19,Women Instant Hijab,Fashion,3,650,0,273,29,98,None,Completed
+DRZ-804218,2025-03-19,Cotton Kurta Set Men,Fashion,2,1800,0,540,54,180,None,Completed
+DRZ-223609,2025-03-19,USB-C Fast Charging Cable,Electronics,3,380,0,114,17,57,None,Completed
+DRZ-597560,2025-03-20,Xiaomi Earbuds Pro,Audio,3,2800,0,1008,126,0,None,Completed
+DRZ-138119,2025-03-20,Baby Wipes 80pcs Pack,Baby,3,520,0,125,23,0,None,Completed
+DRZ-800978,2025-03-20,LED Desk Lamp Adjustable,Home & Living,3,1600,0,432,72,240,None,Completed
+DRZ-599845,2025-03-20,Nonstick Cooking Pan 24cm,Kitchen,3,1200,0,324,54,0,None,Completed
+DRZ-764266,2025-03-20,Nonstick Cooking Pan 24cm,Kitchen,3,1200,0,324,54,0,None,Completed
+DRZ-911369,2025-03-21,LED Desk Lamp Adjustable,Home & Living,3,1600,0,432,72,240,None,Completed
+DRZ-148477,2025-03-21,Nonstick Cooking Pan 24cm,Kitchen,3,1200,0,324,54,0,None,Completed
+DRZ-666256,2025-03-21,Nonstick Cooking Pan 24cm,Kitchen,3,1200,0,324,54,180,None,Completed
+DRZ-386314,2025-03-22,Wireless Mouse Logitech M185,Computer Accessories,3,2200,0,726,99,0,None,Completed
+DRZ-306297,2025-03-22,Nonstick Cooking Pan 24cm,Kitchen,1,1200,0,108,18,60,None,Completed
+DRZ-277396,2025-03-22,Baby Wipes 80pcs Pack,Baby,2,520,0,83,16,52,None,Completed
+DRZ-342156,2025-03-23,Samsung A15 Back Cover,Mobile Accessories,2,450,0,72,14,0,None,Completed
+DRZ-578850,2025-03-23,LED Desk Lamp Adjustable,Home & Living,3,1600,0,432,72,0,None,Completed
+DRZ-871094,2025-03-23,USB-C Fast Charging Cable,Electronics,1,380,150,38,6,0,None,Completed
+DRZ-181920,2025-03-24,LED Desk Lamp Adjustable,Home & Living,3,1600,0,432,72,240,None,Completed
+DRZ-260937,2025-03-24,LED Desk Lamp Adjustable,Home & Living,2,1600,0,288,48,160,None,Completed
+DRZ-530215,2025-03-24,Samsung A15 Back Cover,Mobile Accessories,1,450,150,36,7,22,None,Completed
+DRZ-936107,2025-03-24,Cotton Kurta Set Men,Fashion,3,1800,0,810,81,0,None,Completed
+DRZ-462330,2025-03-25,Women Instant Hijab,Fashion,2,650,0,182,20,0,Returned,Completed
+DRZ-747680,2025-03-25,Wireless Mouse Logitech M185,Computer Accessories,3,2200,0,726,99,0,None,Completed
+DRZ-663924,2025-03-25,Xiaomi Earbuds Pro,Audio,3,2800,0,1008,126,0,None,Completed
+DRZ-901917,2025-03-26,Xiaomi Earbuds Pro,Audio,1,2800,0,336,42,0,None,Completed
+DRZ-836115,2025-03-26,Women Instant Hijab,Fashion,1,650,150,91,10,32,Returned,Completed
+DRZ-985446,2025-03-26,Wireless Mouse Logitech M185,Computer Accessories,1,2200,0,242,33,0,None,Completed
+DRZ-638994,2025-03-26,Xiaomi Earbuds Pro,Audio,1,2800,0,336,42,140,Returned,Completed
+DRZ-103916,2025-03-26,Protein Shaker 700ml,Sports,2,750,0,150,22,0,None,Completed
+DRZ-835524,2025-03-27,Protein Shaker 700ml,Sports,2,750,0,150,22,75,None,Completed
+DRZ-440915,2025-03-27,Wireless Mouse Logitech M185,Computer Accessories,1,2200,0,242,33,0,None,Completed
+DRZ-296443,2025-03-28,Wireless Mouse Logitech M185,Computer Accessories,1,2200,0,242,33,0,None,Completed
+DRZ-500334,2025-03-28,Protein Shaker 700ml,Sports,3,750,0,225,34,112,None,Completed
+DRZ-802496,2025-03-29,LED Desk Lamp Adjustable,Home & Living,3,1600,0,432,72,240,None,Completed
+DRZ-723617,2025-03-29,USB-C Fast Charging Cable,Electronics,3,380,0,114,17,57,None,Completed
+DRZ-527264,2025-03-29,Samsung A15 Back Cover,Mobile Accessories,1,450,150,36,7,22,None,Completed
+DRZ-351109,2025-03-29,Protein Shaker 700ml,Sports,3,750,0,225,34,0,None,Completed
+DRZ-229828,2025-03-29,Cotton Kurta Set Men,Fashion,3,1800,0,810,81,270,None,Completed
+DRZ-518175,2025-03-30,Xiaomi Earbuds Pro,Audio,2,2800,0,672,84,280,None,Completed
+DRZ-595170,2025-03-31,Xiaomi Earbuds Pro,Audio,2,2800,0,672,84,280,None,Completed
+DRZ-967678,2025-03-31,Nonstick Cooking Pan 24cm,Kitchen,2,1200,0,216,36,0,None,Completed
+DRZ-880560,2025-03-31,Cotton Kurta Set Men,Fashion,1,1800,0,270,27,0,None,Completed
+DRZ-246474,2025-04-01,Wireless Mouse Logitech M185,Computer Accessories,3,2200,0,726,99,330,None,Completed
+DRZ-834348,2025-04-01,Cotton Kurta Set Men,Fashion,1,1800,0,270,27,90,None,Completed
+DRZ-109357,2025-04-01,Baby Wipes 80pcs Pack,Baby,3,520,0,125,23,0,None,Completed
+DRZ-719651,2025-04-01,Cotton Kurta Set Men,Fashion,2,1800,0,540,54,180,None,Completed
+DRZ-655163,2025-04-01,Samsung A15 Back Cover,Mobile Accessories,1,450,150,36,7,22,None,Completed
+DRZ-721226,2025-04-02,LED Desk Lamp Adjustable,Home & Living,1,1600,0,144,24,80,None,Completed
+DRZ-375156,2025-04-02,Baby Wipes 80pcs Pack,Baby,2,520,0,83,16,52,None,Completed
+DRZ-381768,2025-04-03,Nonstick Cooking Pan 24cm,Kitchen,1,1200,0,108,18,0,None,Completed
+DRZ-100483,2025-04-03,LED Desk Lamp Adjustable,Home & Living,3,1600,0,432,72,240,None,Completed
+DRZ-971593,2025-04-04,Samsung A15 Back Cover,Mobile Accessories,3,450,0,108,20,68,Returned,Completed
+DRZ-303644,2025-04-05,Women Instant Hijab,Fashion,1,650,150,91,10,0,None,Completed
+DRZ-792507,2025-04-05,Xiaomi Earbuds Pro,Audio,1,2800,0,336,42,0,None,Completed
+DRZ-290202,2025-04-06,Xiaomi Earbuds Pro,Audio,2,2800,0,672,84,0,None,Completed
+DRZ-542408,2025-04-07,Women Instant Hijab,Fashion,2,650,0,182,20,65,None,Completed
+DRZ-604237,2025-04-07,Protein Shaker 700ml,Sports,1,750,150,75,11,38,None,Completed
+DRZ-566629,2025-04-07,LED Desk Lamp Adjustable,Home & Living,2,1600,0,288,48,0,None,Completed
+DRZ-811370,2025-04-08,USB-C Fast Charging Cable,Electronics,3,380,0,114,17,57,None,Completed
+DRZ-690638,2025-04-08,Women Instant Hijab,Fashion,1,650,150,91,10,0,None,Completed
+DRZ-709840,2025-04-08,Women Instant Hijab,Fashion,3,650,0,273,29,0,None,Completed
+DRZ-727147,2025-04-08,Cotton Kurta Set Men,Fashion,3,1800,0,810,81,0,None,Completed
+DRZ-197012,2025-04-08,Nonstick Cooking Pan 24cm,Kitchen,1,1200,0,108,18,60,None,Completed
+DRZ-253266,2025-04-09,Nonstick Cooking Pan 24cm,Kitchen,3,1200,0,324,54,0,None,Completed
+DRZ-567179,2025-04-09,Baby Wipes 80pcs Pack,Baby,1,520,150,42,8,26,None,Completed
+DRZ-133526,2025-04-09,Protein Shaker 700ml,Sports,2,750,0,150,22,0,None,Completed
+DRZ-732760,2025-04-10,Baby Wipes 80pcs Pack,Baby,1,520,150,42,8,0,Returned,Completed
+DRZ-928428,2025-04-10,LED Desk Lamp Adjustable,Home & Living,3,1600,0,432,72,0,None,Completed
+DRZ-880965,2025-04-10,Women Instant Hijab,Fashion,3,650,0,273,29,98,None,Completed
+DRZ-307651,2025-04-10,Wireless Mouse Logitech M185,Computer Accessories,3,2200,0,726,99,330,None,Completed
+DRZ-153594,2025-04-11,Cotton Kurta Set Men,Fashion,3,1800,0,810,81,270,Returned,Completed
+DRZ-785197,2025-04-12,Protein Shaker 700ml,Sports,3,750,0,225,34,0,None,Completed
+DRZ-665566,2025-04-12,Samsung A15 Back Cover,Mobile Accessories,3,450,0,108,20,68,None,Completed
+DRZ-266534,2025-04-12,Samsung A15 Back Cover,Mobile Accessories,3,450,0,108,20,68,None,Completed
+DRZ-207236,2025-04-12,Samsung A15 Back Cover,Mobile Accessories,2,450,0,72,14,45,None,Completed
+DRZ-223737,2025-04-13,Baby Wipes 80pcs Pack,Baby,3,520,0,125,23,78,None,Completed
+DRZ-809804,2025-04-14,Cotton Kurta Set Men,Fashion,3,1800,0,810,81,270,None,Completed
+DRZ-265474,2025-04-14,LED Desk Lamp Adjustable,Home & Living,3,1600,0,432,72,0,None,Completed
+DRZ-700136,2025-04-15,Baby Wipes 80pcs Pack,Baby,2,520,0,83,16,52,None,Completed
+DRZ-188691,2025-04-16,USB-C Fast Charging Cable,Electronics,2,380,150,76,11,38,None,Completed
+DRZ-363000,2025-04-16,Nonstick Cooking Pan 24cm,Kitchen,1,1200,0,108,18,0,None,Completed
+DRZ-922801,2025-04-17,Cotton Kurta Set Men,Fashion,3,1800,0,810,81,0,Returned,Completed
+DRZ-133835,2025-04-18,Protein Shaker 700ml,Sports,2,750,0,150,22,0,None,Completed
+DRZ-376253,2025-04-18,Nonstick Cooking Pan 24cm,Kitchen,3,1200,0,324,54,180,None,Completed
+DRZ-434419,2025-04-19,LED Desk Lamp Adjustable,Home & Living,2,1600,0,288,48,0,None,Completed
+DRZ-551391,2025-04-19,Wireless Mouse Logitech M185,Computer Accessories,2,2200,0,484,66,0,None,Completed
+DRZ-657147,2025-04-20,Xiaomi Earbuds Pro,Audio,2,2800,0,672,84,280,None,Completed
+DRZ-476855,2025-04-20,USB-C Fast Charging Cable,Electronics,1,380,150,38,6,0,None,Completed
+DRZ-691994,2025-04-20,Nonstick Cooking Pan 24cm,Kitchen,3,1200,0,324,54,180,Returned,Completed
+DRZ-110107,2025-04-21,Samsung A15 Back Cover,Mobile Accessories,3,450,0,108,20,0,None,Completed
+DRZ-397997,2025-04-21,Samsung A15 Back Cover,Mobile Accessories,1,450,150,36,7,22,None,Completed
+DRZ-786217,2025-04-21,Wireless Mouse Logitech M185,Computer Accessories,2,2200,0,484,66,220,None,Completed
+DRZ-180327,2025-04-21,Cotton Kurta Set Men,Fashion,3,1800,0,810,81,270,None,Completed
+DRZ-422028,2025-04-21,LED Desk Lamp Adjustable,Home & Living,1,1600,0,144,24,80,None,Completed
+DRZ-771465,2025-04-22,Nonstick Cooking Pan 24cm,Kitchen,1,1200,0,108,18,0,None,Completed
+DRZ-782462,2025-04-22,Protein Shaker 700ml,Sports,2,750,0,150,22,0,None,Completed
+DRZ-120882,2025-04-22,Protein Shaker 700ml,Sports,1,750,150,75,11,38,None,Completed
+DRZ-671727,2025-04-22,Cotton Kurta Set Men,Fashion,1,1800,0,270,27,0,None,Completed
+DRZ-381441,2025-04-22,Protein Shaker 700ml,Sports,1,750,150,75,11,0,None,Completed
+DRZ-984509,2025-04-23,Xiaomi Earbuds Pro,Audio,1,2800,0,336,42,0,None,Completed
+DRZ-110464,2025-04-23,Cotton Kurta Set Men,Fashion,3,1800,0,810,81,0,None,Completed
+DRZ-316896,2025-04-23,Xiaomi Earbuds Pro,Audio,3,2800,0,1008,126,420,None,Completed
+DRZ-158626,2025-04-24,USB-C Fast Charging Cable,Electronics,1,380,150,38,6,19,Returned,Completed
+DRZ-449482,2025-04-24,Nonstick Cooking Pan 24cm,Kitchen,1,1200,0,108,18,0,None,Completed
+DRZ-208262,2025-04-24,Cotton Kurta Set Men,Fashion,3,1800,0,810,81,0,None,Completed
+DRZ-815684,2025-04-25,USB-C Fast Charging Cable,Electronics,1,380,150,38,6,0,None,Completed
+DRZ-810841,2025-04-25,LED Desk Lamp Adjustable,Home & Living,2,1600,0,288,48,0,Returned,Completed
+DRZ-688799,2025-04-25,Samsung A15 Back Cover,Mobile Accessories,2,450,0,72,14,0,None,Completed
+DRZ-628868,2025-04-26,Baby Wipes 80pcs Pack,Baby,3,520,0,125,23,0,None,Completed
+DRZ-934654,2025-04-26,Baby Wipes 80pcs Pack,Baby,1,520,150,42,8,26,None,Completed
+DRZ-219213,2025-04-27,Nonstick Cooking Pan 24cm,Kitchen,1,1200,0,108,18,60,None,Completed
+DRZ-261941,2025-04-28,Samsung A15 Back Cover,Mobile Accessories,2,450,0,72,14,45,None,Completed
+DRZ-554530,2025-04-29,Xiaomi Earbuds Pro,Audio,3,2800,0,1008,126,420,None,Completed
+DRZ-227075,2025-04-29,Wireless Mouse Logitech M185,Computer Accessories,2,2200,0,484,66,0,None,Completed
