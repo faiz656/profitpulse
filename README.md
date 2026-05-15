@@ -4,6 +4,7 @@
 
 A full-stack SaaS dashboard where Daraz sellers upload their order export and instantly see real profit, fee breakdown, return analysis, and AI-powered business insights.
 
+**Live demo:** [profitpulse-xi.vercel.app](https://profitpulse-xi.vercel.app)
 **GitHub:** [github.com/faiz656/profitpulse](https://github.com/faiz656/profitpulse)
 
 ---
